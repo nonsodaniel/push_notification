@@ -29,7 +29,7 @@ Open [https://firebase.google.com/summit](https://firebase.google.com/summit) to
 
 
 
-## Goldman Sachs  Engineering Africa Recruiting Initiative Event in Nigeria 
+<h1>Goldman Sachs  Engineering Africa Recruiting Initiative Event in Nigeria </h1>
 
 We invite students graduating in 2020
 and 2021 to attend a two-day event to learn 
@@ -68,7 +68,7 @@ Once you've created your account there, go here:
  [https://recruiting360.avature.net/candidates/ProjectDetail?projectId=12727](https://recruiting360.avature.net/candidates/ProjectDetail?projectId=12727)
 
 
-## Don't forget tp check the slides folder for a pdf containing more information about this
+## Don't forget to check the slides folder for a pdf containing more information about this
 
 
 
