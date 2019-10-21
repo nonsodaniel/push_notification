@@ -76,6 +76,14 @@ Once you've created your account there, go here:
 [https://careers.microsoft.com/us/en/job/720502/Internship-Opportunities-in-Nigeria-for-Students-Software-Engineering](https://careers.microsoft.com/us/en/job/720502/Internship-Opportunities-in-Nigeria-for-Students-Software-Engineering)
 
 
+<h1> For girls interested in SheCodeAfrica, 
+
+[http://bit.ly/scaslack](http://bit.ly/scaslack)
+
+
+
+<h1> Keep in touch, more to come </h1>
+
 
 
 
