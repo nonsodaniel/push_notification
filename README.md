@@ -71,6 +71,15 @@ Once you've created your account there, go here:
 ## Don't forget to check the slides folder for a pdf containing more information about this
 
 
+<h1>Microsoft Internship opportunities </h1>
+
+[https://careers.microsoft.com/us/en/job/720502/Internship-Opportunities-in-Nigeria-for-Students-Software-Engineering](https://careers.microsoft.com/us/en/job/720502/Internship-Opportunities-in-Nigeria-for-Students-Software-Engineering)
+
+
+
+
+
+
 
 
 
